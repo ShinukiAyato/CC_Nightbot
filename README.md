@@ -17,4 +17,4 @@ Login into Pastebin then you need to create a folder first so that it is easier 
 ## Custom Commands
 In each folder is a custom command. They have different instructions so please do read most of them.
 
-If you do have question you can ask me in twitter if I am available tho.
+If you do have question you can ask me in [twitter](https://twitter.com/ShinukiAyatoVT) if I am available tho.
