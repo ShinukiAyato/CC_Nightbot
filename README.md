@@ -14,7 +14,7 @@ So before we get started these are all the things you need to do in Pastebin.
 Login into Pastebin then you need to create a folder first so that it is easier for you to see the codes you did. In each command, it will say what you need to put in the Pastebin settings.
 
 
-##Custom Commands
+## Custom Commands
 In each folder is a custom command. They have different instructions so please do read most of them.
 
 If you do have question you can ask me in twitter if I am available tho.
