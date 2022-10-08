@@ -35,3 +35,4 @@ Then put in the message this
 ```
 $(user) and $(touser) ship name is "$(eval s=`$(user)`; e=`$(touser)`.toLowerCase(); $(urlfetch PASTEBINLINK))"
 ```
+Just Change the `PASTEBINLINK` into your actual link to get the command working
