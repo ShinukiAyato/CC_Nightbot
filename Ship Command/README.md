@@ -8,3 +8,19 @@ Of course the code will remove duplicate.<br><br>
 <br><br><br>
 
 ## How to do it:
+
+Make a new pastebin then put this in your pastebin
+```js
+const undup = (str) => [...new Set(str)].join('');
+const changer = (str) => str.replace(/\d|vt|VT|_|TTV|ttv| /g, '');
+ 
+const rMention = changer(e).match(/(...?)| /g);
+const mRandom = rMention[Math.floor(Math.random() * rMention.length)];
+ 
+const fUser = undup(changer(s)).split('', 3).join('');
+const fMention = undup(mRandom).split('').reverse().join('');
+ 
+`${fUser}${fMention}`
+```
+<br>
+After making the pastebin 
