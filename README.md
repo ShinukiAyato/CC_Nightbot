@@ -27,4 +27,5 @@ Don't ever copy other people's Pastebin links because if the owner of that Paste
 ## Custom Commands
 In each folder is a custom command. They have different instructions so please do read most of them.<br><br>
 
-> If you do have a question you can ask me in [Twitter](https://twitter.com/ShinukiAyatoVT) if I am available tho.
+> If you all have suggestions or ideas on some commands I'll try to make it. I won't make promises that I will make it because I am not good at coding in nightbot. <br>
+> If you do have a question you can ask me on [Twitter](https://twitter.com/ShinukiAyatoVT) if I am available tho.
