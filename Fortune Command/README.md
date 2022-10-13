@@ -17,4 +17,4 @@ Then put in the message this
 Your fortune is "$(eval $(urlfetch https://fortuneapi.herokuapp.com/fortunes).replace('\n', ''))"
 ```
 
-> This time we don't need Pastebin for the command
+> This time we don't need Pastebin for the command.
