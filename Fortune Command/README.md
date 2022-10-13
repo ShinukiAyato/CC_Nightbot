@@ -1,4 +1,4 @@
-# Ship Commands
+# Fortune Commands
 This command will show the user their fortune just like a fortune cookie.<br><br>
 
 #### Example
