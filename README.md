@@ -1,5 +1,5 @@
 # Custom Command Nightbot
-These custom commands are purely for fun. The custom command is ideas from other friends of mine and was coded by me.
+These custom commands are purely for fun. The custom command is ideas from other friends of mine and mostly was coded by me.
 
 
 ### You need to know
