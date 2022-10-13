@@ -34,4 +34,4 @@ Then put in the message this
 $(urlfetch https://api.thefyrewire.com/twitch/pastebin/PASTEBINCODE?filter=$(1)&user=$(user))
 ```
 Just Change the `PASTEBINCODE` to your pastebin code. You will see your code after creating your pastebin.<br>
-Example is `pastebin.com/wwvdjvEj` just get the `wwvdjvEj` and that is your pastebin code
+Example is `pastebin.com/wwvdjvEj` just get the `wwvdjvEj` and that is your pastebin code.
